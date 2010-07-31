@@ -1,0 +1,13 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=3165
+
+This script will change the colour of both the status bar and background when you enter and exit insert mode so no more typing : in the middle of your code.
+
+You can choose the colours to use right at the top of the script.
+
+Credits: Many people on irc://irc.freenode.org in #vim.
+
+Special Credits:
+godlygeek - Answered so many of my questions I lost count.
+Dave Kirby - Pointing out version 0.5 was broken with gvim in GUI mode and why.
+
+I deleted the previous versions because they are broken in some (benign) way so you shouldn't use them.
